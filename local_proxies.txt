@@ -1,5 +1,8 @@
-http://ip:port
-socks4://ip:port
+socks5://104.200.152.30:4145
+socks5://178.72.91.220:1080
+socks5://192.252.208.70:14282
+socks5://192.252.211.197:14921
+socks5://66.29.129.54:15585
 socks5://ip:port
 http://user:pass@ip:port
 socks4://user:pass@ip:port
